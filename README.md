@@ -8,6 +8,7 @@
 
 ## Thành viên
 | MSSV | Họ và tên |
+|-------|--------------|
 | 22127023 | Võ Ngọc Minh Anh|
 | 22127140 | Lê Huỳnh Nhật Hưng |
 | 22127142 | Nguyễn Đức Hưng |
