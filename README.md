@@ -20,6 +20,7 @@
 ## Files
 
 - **requirements.txt:** Lưu trữ thông tin các thư viện cần cài đặt để sử dụng cho đồ án
+- **.gitignore:** Không push các file không cần thiết lên github
 
 ## Bắt đầu
 ### Clone Repo từ Github
